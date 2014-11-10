@@ -1,0 +1,52 @@
+/****************************************/
+/* Stylesheet for IS systems ************/
+/* Typing pattern login system **********/
+/****************************************/
+/* last edit: 19.03.2013 ****************/
+/* by: Panos and Lisa *******************/
+/****************************************/
+
+
+body {
+	font-size: auto;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #ffffff;
+	color: #243649;
+}
+
+div#menu {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+div#current {
+	border-width: 0px;
+	border-style: solid;
+	border-color: grey;
+}
+
+table.loginform_table td {
+	padding-bottom: 10px;
+}
+
+table .logintable_fl {
+	width: 90px;
+}
+
+/******* line styling **********/
+hr {
+	color: #6d5635;
+}
+
+/******* link styling **********/
+/*a {
+	font-size: 120%;
+	padding-right: 6px;
+	text-decoration:none;
+}
+a:link, a:visited {
+	color: #6d5635;
+}
+a:hover, a:active {
+	color: #d68b1f;
+}*/
